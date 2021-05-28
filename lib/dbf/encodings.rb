@@ -58,7 +58,7 @@ module DBF
     'c9' => 'cp1251',      # Russian Windows
     'ca' => 'cp1254',      # Turkish Windows
     'cb' => 'cp1253',      # Greek Windows
-    'cc' => 'cp1257'       # Baltic Windows
-    'cd' => 'iso-8859-13'  # Foros
+    'cc' => 'cp1257',       # Baltic Windows
+    'cd' => 'iso-8859-13',  # Foros
   }.freeze
 end
